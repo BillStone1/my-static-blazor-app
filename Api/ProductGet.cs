@@ -11,6 +11,7 @@ using Newtonsoft.Json;
 namespace Api
 {
     //BS; Adding comments so I can do another commit
+    //BS; Another effort to get the staging update done
     public class ProductsGet
     {
 
